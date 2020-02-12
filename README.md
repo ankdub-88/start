@@ -1,4 +1,4 @@
-Sr Java Engineer, Sunnyvale, CA<br><br>
+Sr Java Developer, Sunnyvale, CA<br><br>
 Required Qualifications : Bachelor of Science and 5 years’ experience in software engineering OR Master of Science<br>
 Experience with Java J2EE programming.<br>
 Experience with design patterns.<br>
